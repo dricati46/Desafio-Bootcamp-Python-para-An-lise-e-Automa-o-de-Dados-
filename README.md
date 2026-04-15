@@ -32,25 +32,25 @@ https://www.salesforce.com/br/blog/quality-assurance/
 
  
 # Testes de Prompts 
-Os prompts testes usados durante a pesquisa e respostas obtidas
+Os prompts usados durante a pesquisa e respostas obtidas
 
 ### Prompt 1:
 O que devo começar a estudar para inciar a carreira em quality assurance
 
-Fundamentos e Teoria de Testes
+- Fundamentos e Teoria de Testes
 
-Metodologias Ágeis
+- Metodologias Ágeis
 
-Infraestrutura Web e Dados
+- Infraestrutura Web e Dados
 
-Lógica de Programação e Git
+- Lógica de Programação e Git
 
-Engenharia de APIs
+- Engenharia de APIs
 
-Certificações
+- Certificações
 
 ### Prompt 2:
-Crie de um roteiro de estudos baseados nos conteudos sobre os passos essenciais para iniciar a minha carreira em quality Assurance.
+Crie de um roteiro de estudos baseados nos conteudos sobre os passos essenciais para iniciar a minha carreira em Quality Assurance.
 
 Mês 1: Fundamentos, Mentalidade e Agilidade
 
@@ -65,7 +65,7 @@ Mês 5: Automação de Interface (UI)
 Mês 6: Estratégia, CI/CD e Portfólio
 
 ### Prompt 3: (Dificuldade encontrada)
-Demonstre através de imagem teste realizados com a aplicação Scrum.
+Demonstre através de uma imagem teste realizados com a aplicação Scrum.
 
 Neste retorno obtive como resposta apenas o fluxo do ciclo Scrum, não foi possivel a exibição da imagem diretamente no chat  
 
