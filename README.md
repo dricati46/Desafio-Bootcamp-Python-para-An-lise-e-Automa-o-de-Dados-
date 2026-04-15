@@ -18,7 +18,7 @@ Criar um caderno temático no NotebookLM.
 Estou em transição de carreira e tenho interesse na área de QA (Quality Assurance) e para meu caderno temático o assunto escolhido são conteúdos como os fundamentos, testes , metodologias relacionadas a área que possam ajudar nos estudos de maneira mais centralizada e estruturada.
 
 # Fontes
-Disponbilizo algumas das fontes utilizadas no projeto.
+Disponibilizada algumas das fontes utilizadas no projeto.
 
 https://materiais.cesar.school/especializacoes-e-book-testes?_gl=1*3lx91s*_gcl_au*MTU2NzE4MTA4Ni4xNzc2Mjg2NDc4*_ga*NDQ4NDQ5NzEuMTc3NjI4NjUwOQ..*_ga_TZ1FZZ7YLF*czE3NzYyODY1MDgkbzEkZzEkdDE3NzYyODY3NDEkajYwJGwwJGgxNjE0OTA1MzI4
 
@@ -32,7 +32,7 @@ https://www.salesforce.com/br/blog/quality-assurance/
 
  
 # Testes de Prompts 
-Aqui entram as perguntas que orientaram na pesquisa.
+Os prompts testes usados durante a pesquisa e respostas obtidas
 
 ### Prompt 1:
 O que devo começar a estudar para inciar a carreira em quality assurance
