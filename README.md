@@ -2,10 +2,10 @@
 Olá, tudo aqui é novo para mim e este é meu primeiro repositório criado para colocar em pratica meus estudos e realizar meu primeiro desafio proposto no aprendizado em IA
 
 # Objetivo 
-Estou em transição de carreira e tenho interesse na área de QA (Quality Assurance) e para meu caderno temático o assunto escolhido são conteúdos como os fundamentos, testes , metodologias relacionadas a área que possam ajudar nos estudos de maneira mais centralizada e estruturada.
+Estou em transição de carreira e tenho muito interesse em migrar para Area de QA (Quality Assurance) e com objetivo de criar um base de estudos centralizando as informações apoiando durante os estudos criei um caderno temático com fontes baseadas em conteúdos, fundamentos, metodologias relacionadas a área e disponbilizando aqui neste repositório.
 
 # Fontes
-Disponibilizada algumas das fontes utilizadas neste projeto.
+Disponibilizando algumas das fontes utilizadas neste projeto.
 
 https://materiais.cesar.school/especializacoes-e-book-testes?_gl=1*3lx91s*_gcl_au*MTU2NzE4MTA4Ni4xNzc2Mjg2NDc4*_ga*NDQ4NDQ5NzEuMTc3NjI4NjUwOQ..*_ga_TZ1FZZ7YLF*czE3NzYyODY1MDgkbzEkZzEkdDE3NzYyODY3NDEkajYwJGwwJGgxNjE0OTA1MzI4
 
@@ -22,7 +22,7 @@ https://www.salesforce.com/br/blog/quality-assurance/
 Algumas perguntas estratégicas que utilizei e respostas obtidas
 
 ### Prompt 1:
-O que devo começar a estudar para inciar a carreira em quality assurance
+O que devo começar a estudar para iniciar a carreira em Quality Assurance (QA)
 
 - Fundamentos e Teoria de Testes
 
@@ -37,7 +37,7 @@ O que devo começar a estudar para inciar a carreira em quality assurance
 - Certificações
 
 ### Prompt 2:
-Crie de um roteiro de estudos baseados nos conteudos sobre os passos essenciais para iniciar a minha carreira em Quality Assurance.
+Criando um roteiro de estudos baseados nos conteudos sobre os passos essenciais para iniciar a minha carreira em Quality Assurance.
 
 Mês 1: Fundamentos, Mentalidade e Agilidade
 
