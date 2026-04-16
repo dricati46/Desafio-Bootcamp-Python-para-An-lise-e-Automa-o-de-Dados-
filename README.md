@@ -82,17 +82,17 @@ Estratégia de APIs: Testar na camada de API (especialmente arquitetura REST) é
 
 Ferramentas como Postman e Swagger são essenciais para validar contratos de dados e integrar testes em pipelines de CI/CD
 
-#### 2. Glossário de Principais Conceitos
+### 2. Glossário de Principais Conceitos
 
 **API (Application Programming Interface):** Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
 
-2. Definition of Done (DoD): Acordo que define que uma tarefa só está pronta se atender a critérios de qualidade, como testes e revisão de código
+**Definition of Done (DoD)**: Acordo que define que uma tarefa só está pronta se atender a critérios de qualidade, como testes e revisão de código
 
-3. JSON (JavaScript Object Notation): Formato leve de troca de dados, padrão para APIs RESTful
+**JSON (JavaScript Object Notation)**: Formato leve de troca de dados, padrão para APIs RESTful
 
-4. Page Object Model (POM): Padrão de projeto na automação que separa a lógica do teste da estrutura da interface, facilitando a manutenção
+**Page Object Model (POM)**: Padrão de projeto na automação que separa a lógica do teste da estrutura da interface, facilitando a manutenção
 
-5. Quality Assurance (QA) vs. Quality Control (QC): QA foca na validade do processo (proativo); QC foca na detecção de falhas no produto final (reativo)
+**Quality Assurance (QA) vs. Quality Control (QC)**: QA foca na validade do processo (proativo); QC foca na detecção de falhas no produto final (reativo)
 
 6. REST (Representational State Transfer): Estilo arquitetural para APIs web, conhecido por ser leve, flexível e escalável
 
