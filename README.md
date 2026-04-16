@@ -1,10 +1,11 @@
-# Desafio-Bootcamp-Python-para-Analise-e-Automacao-de-Dados-
+## Desafio-Bootcamp-Python-para-Analise-e-Automacao-de-Dados
+
 Olá, tudo aqui é novo para mim e este é meu primeiro repositório criado para colocar em pratica meus estudos e realizar meu primeiro desafio proposto no aprendizado em IA
 
-# Objetivo 
+## Objetivo 
 Estou em transição de carreira e tenho muito interesse em migrar para Area de QA (Quality Assurance) e com objetivo de criar um base de estudos centralizando as informações apoiando durante os estudos criei um caderno temático com fontes baseadas em conteúdos, fundamentos, metodologias relacionadas a área e disponbilizando aqui neste repositório.
 
-# Fontes
+## Fontes
 Disponibilizando algumas das fontes utilizadas neste projeto.
 
 https://materiais.cesar.school/especializacoes-e-book-testes?_gl=1*3lx91s*_gcl_au*MTU2NzE4MTA4Ni4xNzc2Mjg2NDc4*_ga*NDQ4NDQ5NzEuMTc3NjI4NjUwOQ..*_ga_TZ1FZZ7YLF*czE3NzYyODY1MDgkbzEkZzEkdDE3NzYyODY3NDEkajYwJGwwJGgxNjE0OTA1MzI4
@@ -18,7 +19,7 @@ https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1127939/1/Doc171-2
 https://www.salesforce.com/br/blog/quality-assurance/
 
  
-# Testes de Prompts 
+## Testes de Prompts 
 Algumas perguntas estratégicas que utilizei e respostas obtidas
 
 ### Prompt 1:
@@ -61,7 +62,7 @@ Demonstre através de uma imagem teste realizados com a aplicação Scrum.
 
 Neste retorno obtive como resposta apenas o fluxo do ciclo Scrum, não foi possivel a exibição da imagem diretamente no chat  
 
-# Mini Guia de Estudo
+## Mini Guia de Estudo
 
 ### Resumos Estruturados do Assunto
 
@@ -83,7 +84,7 @@ Ferramentas como Postman e Swagger são essenciais para validar contratos de dad
 
 #### 2. Glossário de Principais Conceitos
 
-. API (Application Programming Interface): Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
+**API (Application Programming Interface):** Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
 
 2. Definition of Done (DoD): Acordo que define que uma tarefa só está pronta se atender a critérios de qualidade, como testes e revisão de código
 
