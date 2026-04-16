@@ -71,6 +71,56 @@ Neste retorno obtive como resposta apenas o fluxo do ciclo Scrum, não foi possi
 
 # Mini Guia de Estudo
 
+### Resumos Estruturados do Assunto
+
+#### 1.Fundamentos e Mudança de Paradigma:
+O QA moderno deixou de ser uma atividade reativa (apenas detectar erros) para se tornar uma disciplina de engenharia proativa focada na Garantia da Qualidade do processo
+
+O conceito de Shifting Left é central, movendo os testes para o início do Ciclo de Vida de Desenvolvimento (SDLC) para prevenir falhas antes da escrita do código
+
+Qualidade em Ambientes Ágeis: No framework Scrum, a qualidade é uma responsabilidade compartilhada por todo o time (Whole Team Approach)
+os Quadrantes do Teste Ágil servem como bússola para equilibrar testes funcionais (foco no negócio) com testes não-funcionais (performance, segurança e usabilidade)
+
+Engenharia e Automação Técnica: O Engenheiro de QA deve dominar linguagens (Python, JavaScript ou Java) e a Pirâmide de Testes, priorizando uma base sólida de testes unitários e de integração (APIs) antes de focar na interface de usuário (UI)
+
+Ferramentas modernas como Playwright e Cypress ganham destaque pela estabilidade e velocidade em relação ao Selenium tradicional
+
+Estratégia de APIs: Testar na camada de API (especialmente arquitetura REST) é considerado mais eficiente e menos instável do que testes de UI
+
+Ferramentas como Postman e Swagger são essenciais para validar contratos de dados e integrar testes em pipelines de CI/CD
+
+#### 2. Glossário de Principais Conceitos
+
+API (Application Programming Interface): Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
+
+Definition of Done (DoD): Acordo que define que uma tarefa só está pronta se atender a critérios de qualidade, como testes e revisão de código
+
+JSON (JavaScript Object Notation): Formato leve de troca de dados, padrão para APIs RESTful
+
+Page Object Model (POM): Padrão de projeto na automação que separa a lógica do teste da estrutura da interface, facilitando a manutenção
+
+Quality Assurance (QA) vs. Quality Control (QC): QA foca na validade do processo (proativo); QC foca na detecção de falhas no produto final (reativo)
+
+REST (Representational State Transfer): Estilo arquitetural para APIs web, conhecido por ser leve, flexível e escalável
+
+SOAP (Simple Object Access Protocol): Protocolo rígido de comunicação baseado em XML, usado em sistemas que exigem alta segurança e contratos formais
+
+Sprint: Ciclo de trabalho iterativo e de tempo fixo (geralmente 1 mês ou menos) no Scrum
+
+### 3. Conjunto de Prompts Reutilizáveis
+
+Você pode utilizar estes prompts em modelos de IA para aprofundar seus estudos ou apoiar o dia a dia técnico:
+
+Para Estratégia: "Com base nos Quadrantes do Teste Ágil, sugira uma estratégia de testes para uma nova funcionalidade de [X] focando no Quadrante 2 e Quadrante 4."
+
+Para Automação: "Crie um script de automação usando o padrão Page Object Model em [Playwright/Cypress] para testar o fluxo de login de um e-commerce."
+
+Para APIs: "Explique como validar um contrato JSON de uma requisição POST usando scripts de teste no Postman."
+
+Para Revisão: "Simule uma entrevista técnica para uma vaga de Engenheiro de QA Júnior, focando em conceitos de Scrum e Pirâmide de Testes."
+
+Para SQL: "Escreva uma consulta SQL para validar se os dados inseridos na tabela de 'usuários' via API estão refletindo corretamente os campos [Nome, Email, Status]."
+
 ## 💡 Observações
 Este repositório será atualizado conforme avanço na criação do NotebookLM.
 
