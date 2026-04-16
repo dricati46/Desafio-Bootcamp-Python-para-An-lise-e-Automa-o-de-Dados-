@@ -1,4 +1,4 @@
-## Desafio-Bootcamp-Python-para-Analise-e-Automacao-de-Dados
+### Desafio-Bootcamp-Python-para-Analise-e-Automacao-de-Dados
 
 Olá, tudo aqui é novo para mim e este é meu primeiro repositório criado para colocar em pratica meus estudos e realizar meu primeiro desafio proposto no aprendizado em IA
 
@@ -22,7 +22,7 @@ https://www.salesforce.com/br/blog/quality-assurance/
 ## Testes de Prompts 
 Algumas perguntas estratégicas que utilizei e respostas obtidas
 
-### Prompt 1:
+**Prompt 1:**
 O que devo começar a estudar para iniciar a carreira em Quality Assurance (QA)
 
 - Fundamentos e Teoria de Testes
@@ -37,7 +37,7 @@ O que devo começar a estudar para iniciar a carreira em Quality Assurance (QA)
 
 - Certificações
 
-### Prompt 2:
+**Prompt 2:**
 Criando um roteiro de estudos baseados nos conteudos sobre os passos essenciais para iniciar a minha carreira em Quality Assurance.
 
 Mês 1: Fundamentos, Mentalidade e Agilidade
@@ -52,21 +52,22 @@ Mês 5: Automação de Interface (UI)
 
 Mês 6: Estratégia, CI/CD e Portfólio
 
-### Prompt 3:
+**Prompt 3:**
 Quando o QA deve atuar no processo
 
 O QA deve atuar de forma proativa e contínua durante todo o Ciclo de Vida de Desenvolvimento de Software (SDLC)
 
-### Prompt 4: (Dificuldade encontrada)
+**Prompt 4: (Dificuldade encontrada)**
 Demonstre através de uma imagem teste realizados com a aplicação Scrum.
 
 Neste retorno obtive como resposta apenas o fluxo do ciclo Scrum, não foi possivel a exibição da imagem diretamente no chat  
 
 ## Mini Guia de Estudo
 
-### Resumos Estruturados do Assunto
+## Resumos Estruturados do Assunto
 
-#### 1.Fundamentos e Mudança de Paradigma:
+## 1.Fundamentos e Mudança de Paradigma:
+
 O QA moderno deixou de ser uma atividade reativa (apenas detectar erros) para se tornar uma disciplina de engenharia proativa focada na Garantia da Qualidade do processo
 
 O conceito de Shifting Left é central, movendo os testes para o início do Ciclo de Vida de Desenvolvimento (SDLC) para prevenir falhas antes da escrita do código
@@ -82,7 +83,7 @@ Estratégia de APIs: Testar na camada de API (especialmente arquitetura REST) é
 
 Ferramentas como Postman e Swagger são essenciais para validar contratos de dados e integrar testes em pipelines de CI/CD
 
-### 2. Glossário de Principais Conceitos
+## 2. Glossário de Principais Conceitos
 
 **API (Application Programming Interface):** Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
 
@@ -94,15 +95,15 @@ Ferramentas como Postman e Swagger são essenciais para validar contratos de dad
 
 **Quality Assurance (QA) vs. Quality Control (QC)**: QA foca na validade do processo (proativo); QC foca na detecção de falhas no produto final (reativo)
 
-6. REST (Representational State Transfer): Estilo arquitetural para APIs web, conhecido por ser leve, flexível e escalável
+**6. REST (Representational State Transfer)**: Estilo arquitetural para APIs web, conhecido por ser leve, flexível e escalável
 
-7. SOAP (Simple Object Access Protocol): Protocolo rígido de comunicação baseado em XML, usado em sistemas que exigem alta segurança e contratos formais
+**7. SOAP (Simple Object Access Protocol)**: Protocolo rígido de comunicação baseado em XML, usado em sistemas que exigem alta segurança e contratos formais
 
-8. Sprint: Ciclo de trabalho iterativo e de tempo fixo (geralmente 1 mês ou menos) no Scrum
+**8. Sprint**: Ciclo de trabalho iterativo e de tempo fixo (geralmente 1 mês ou menos) no Scrum
 
-### 3. Conjunto de Prompts Reutilizáveis
+## 3. Conjunto de Prompts Reutilizáveis
 
-#### Para Estratégia: 
+## Para Estratégia: 
 "Com base nos Quadrantes do Teste Ágil, sugira uma estratégia de testes para uma nova funcionalidade de [X] focando no Quadrante 2 e Quadrante 4."
 
 #### Para Automação:
@@ -112,13 +113,12 @@ Ferramentas como Postman e Swagger são essenciais para validar contratos de dad
 "Explique como validar um contrato JSON de uma requisição POST usando scripts de teste no Postman."
 
 #### Para Revisão: 
-"Simule uma entrevista técnica para uma vaga de Engenheiro de QA Júnior, focando em conceitos de Scrum e Pirâmide de Testes."
+"Simule uma entrevista técnica para uma vaga de Analista de QA Júnior, focando em conceitos de Scrum e Pirâmide de Testes."
 
-#### Para SQL: 
-"Escreva uma consulta SQL para validar se os dados inseridos na tabela de 'usuários' via API estão refletindo corretamente os campos [Nome, Email, Status]."
 
-## 💡 Observações
-Este repositório será atualizado conforme avanço na criação do NotebookLM.
+## Conclusão
+
+Observo que a área de Quality Assurance não é apenas executar testes, há processos envolvidos e melhoria contínua. O aprendizado com este conteúdo reforça ainda mais a importância da qualidade desde o início, apoiando para a entrega de sistemas mais confiáveis e eficientes.
 
 
 
