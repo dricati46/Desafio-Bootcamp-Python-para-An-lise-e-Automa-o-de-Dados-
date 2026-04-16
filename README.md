@@ -1,4 +1,4 @@
-### Desafio-Bootcamp-Python-para-Analise-e-Automacao-de-Dados
+### QA Estudos
 
 Olá, tudo aqui é novo para mim e este é meu primeiro repositório criado para colocar em pratica meus estudos e realizar meu primeiro desafio proposto no aprendizado em IA
 
