@@ -55,12 +55,12 @@ Criando um roteiro de estudos baseados nos conteudos sobre os passos essenciais 
 **Prompt 3:**
 Quando o QA deve atuar no processo
 
-O QA deve atuar de forma proativa e contínua durante todo o Ciclo de Vida de Desenvolvimento de Software (SDLC)
+ - O QA deve atuar de forma proativa e contínua durante todo o Ciclo de Vida de Desenvolvimento de Software (SDLC)
 
 **Prompt 4: (Dificuldade encontrada)**
 Demonstre através de uma imagem teste realizados com a aplicação Scrum.
 
-Neste retorno obtive como resposta apenas o fluxo do ciclo Scrum, não foi possivel a exibição da imagem diretamente no chat  
+ - Neste retorno obtive como resposta apenas o fluxo do ciclo Scrum, não foi possivel a exibição da imagem diretamente no chat  
 
 ### Mini Guia de Estudo
 
