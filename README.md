@@ -1,24 +1,11 @@
 # Desafio-Bootcamp-Python-para-Analise-e-Automacao-de-Dados-
 Olá, tudo aqui é novo para mim e este é meu primeiro repositório criado para colocar em pratica meus estudos e realizar meu primeiro desafio proposto no aprendizado em IA
 
-## Conteudo estudado
-- Overview do NotebookLM;
-- Case Situation;
-- Listando fontes de Dados;
-- Criando o notebook LM;
-- Analisando formatos de estúdio;
-- Possibilidades.
-
-# Desafio 1
-Criação do primeiro repositório no GitHub
-# Desafio 2
-Criar um caderno temático no NotebookLM.
-
-# Contexto  
+# Objetivo 
 Estou em transição de carreira e tenho interesse na área de QA (Quality Assurance) e para meu caderno temático o assunto escolhido são conteúdos como os fundamentos, testes , metodologias relacionadas a área que possam ajudar nos estudos de maneira mais centralizada e estruturada.
 
 # Fontes
-Disponibilizada algumas das fontes utilizadas no projeto.
+Disponibilizada algumas das fontes utilizadas neste projeto.
 
 https://materiais.cesar.school/especializacoes-e-book-testes?_gl=1*3lx91s*_gcl_au*MTU2NzE4MTA4Ni4xNzc2Mjg2NDc4*_ga*NDQ4NDQ5NzEuMTc3NjI4NjUwOQ..*_ga_TZ1FZZ7YLF*czE3NzYyODY1MDgkbzEkZzEkdDE3NzYyODY3NDEkajYwJGwwJGgxNjE0OTA1MzI4
 
@@ -32,7 +19,7 @@ https://www.salesforce.com/br/blog/quality-assurance/
 
  
 # Testes de Prompts 
-Os prompts usados durante a pesquisa e respostas obtidas
+Algumas perguntas estratégicas que utilizei e respostas obtidas
 
 ### Prompt 1:
 O que devo começar a estudar para inciar a carreira em quality assurance
@@ -64,7 +51,9 @@ Mês 5: Automação de Interface (UI)
 
 Mês 6: Estratégia, CI/CD e Portfólio
 
-### Prompt 3: (Dificuldade encontrada)
+
+
+### Prompt 4: (Dificuldade encontrada)
 Demonstre através de uma imagem teste realizados com a aplicação Scrum.
 
 Neste retorno obtive como resposta apenas o fluxo do ciclo Scrum, não foi possivel a exibição da imagem diretamente no chat  
