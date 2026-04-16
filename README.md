@@ -83,7 +83,7 @@ Ferramentas como Postman e Swagger são essenciais para validar contratos de dad
 
 #### 2. Glossário de Principais Conceitos
 
-1. API (Application Programming Interface): Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
+. API (Application Programming Interface): Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
 
 2. Definition of Done (DoD): Acordo que define que uma tarefa só está pronta se atender a critérios de qualidade, como testes e revisão de código
 
