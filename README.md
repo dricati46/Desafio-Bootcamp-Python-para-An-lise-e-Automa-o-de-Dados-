@@ -40,17 +40,17 @@ O que devo começar a estudar para iniciar a carreira em Quality Assurance (QA)
 **Prompt 2:**
 Criando um roteiro de estudos baseados nos conteudos sobre os passos essenciais para iniciar a minha carreira em Quality Assurance.
 
-Mês 1: Fundamentos, Mentalidade e Agilidade
+ - Mês 1: Fundamentos, Mentalidade e Agilidade
 
-Mês 2: Infraestrutura Web, Dados e Ferramentas de Inspeção
+ - Mês 2: Infraestrutura Web, Dados e Ferramentas de Inspeção
 
-Mês 3: Lógica de Programação e Controle de Versão
+ - Mês 3: Lógica de Programação e Controle de Versão
 
-Mês 4: Engenharia de APIs
+ - Mês 4: Engenharia de APIs
 
-Mês 5: Automação de Interface (UI)
+ - Mês 5: Automação de Interface (UI)
 
-Mês 6: Estratégia, CI/CD e Portfólio
+ - Mês 6: Estratégia, CI/CD e Portfólio
 
 **Prompt 3:**
 Quando o QA deve atuar no processo
