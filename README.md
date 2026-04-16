@@ -83,35 +83,38 @@ Ferramentas como Postman e Swagger são essenciais para validar contratos de dad
 
 #### 2. Glossário de Principais Conceitos
 
-API (Application Programming Interface): Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
+1. API (Application Programming Interface): Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
 
-Definition of Done (DoD): Acordo que define que uma tarefa só está pronta se atender a critérios de qualidade, como testes e revisão de código
+2. Definition of Done (DoD): Acordo que define que uma tarefa só está pronta se atender a critérios de qualidade, como testes e revisão de código
 
-JSON (JavaScript Object Notation): Formato leve de troca de dados, padrão para APIs RESTful
+3. JSON (JavaScript Object Notation): Formato leve de troca de dados, padrão para APIs RESTful
 
-Page Object Model (POM): Padrão de projeto na automação que separa a lógica do teste da estrutura da interface, facilitando a manutenção
+4. Page Object Model (POM): Padrão de projeto na automação que separa a lógica do teste da estrutura da interface, facilitando a manutenção
 
-Quality Assurance (QA) vs. Quality Control (QC): QA foca na validade do processo (proativo); QC foca na detecção de falhas no produto final (reativo)
+5. Quality Assurance (QA) vs. Quality Control (QC): QA foca na validade do processo (proativo); QC foca na detecção de falhas no produto final (reativo)
 
-REST (Representational State Transfer): Estilo arquitetural para APIs web, conhecido por ser leve, flexível e escalável
+6. REST (Representational State Transfer): Estilo arquitetural para APIs web, conhecido por ser leve, flexível e escalável
 
-SOAP (Simple Object Access Protocol): Protocolo rígido de comunicação baseado em XML, usado em sistemas que exigem alta segurança e contratos formais
+7. SOAP (Simple Object Access Protocol): Protocolo rígido de comunicação baseado em XML, usado em sistemas que exigem alta segurança e contratos formais
 
-Sprint: Ciclo de trabalho iterativo e de tempo fixo (geralmente 1 mês ou menos) no Scrum
+8. Sprint: Ciclo de trabalho iterativo e de tempo fixo (geralmente 1 mês ou menos) no Scrum
 
 ### 3. Conjunto de Prompts Reutilizáveis
 
-Você pode utilizar estes prompts em modelos de IA para aprofundar seus estudos ou apoiar o dia a dia técnico:
+#### Para Estratégia: 
+"Com base nos Quadrantes do Teste Ágil, sugira uma estratégia de testes para uma nova funcionalidade de [X] focando no Quadrante 2 e Quadrante 4."
 
-Para Estratégia: "Com base nos Quadrantes do Teste Ágil, sugira uma estratégia de testes para uma nova funcionalidade de [X] focando no Quadrante 2 e Quadrante 4."
+#### Para Automação:
+"Crie um script de automação usando o padrão Page Object Model em [Playwright/Cypress] para testar o fluxo de login de um e-commerce."
 
-Para Automação: "Crie um script de automação usando o padrão Page Object Model em [Playwright/Cypress] para testar o fluxo de login de um e-commerce."
+#### Para APIs: 
+"Explique como validar um contrato JSON de uma requisição POST usando scripts de teste no Postman."
 
-Para APIs: "Explique como validar um contrato JSON de uma requisição POST usando scripts de teste no Postman."
+#### Para Revisão: 
+"Simule uma entrevista técnica para uma vaga de Engenheiro de QA Júnior, focando em conceitos de Scrum e Pirâmide de Testes."
 
-Para Revisão: "Simule uma entrevista técnica para uma vaga de Engenheiro de QA Júnior, focando em conceitos de Scrum e Pirâmide de Testes."
-
-Para SQL: "Escreva uma consulta SQL para validar se os dados inseridos na tabela de 'usuários' via API estão refletindo corretamente os campos [Nome, Email, Status]."
+#### Para SQL: 
+"Escreva uma consulta SQL para validar se os dados inseridos na tabela de 'usuários' via API estão refletindo corretamente os campos [Nome, Email, Status]."
 
 ## 💡 Observações
 Este repositório será atualizado conforme avanço na criação do NotebookLM.
