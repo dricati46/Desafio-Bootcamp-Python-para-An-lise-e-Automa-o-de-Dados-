@@ -51,7 +51,10 @@ Mês 5: Automação de Interface (UI)
 
 Mês 6: Estratégia, CI/CD e Portfólio
 
+### Prompt 3:
+Quando o QA deve atuar no processo
 
+O QA deve atuar de forma proativa e contínua durante todo o Ciclo de Vida de Desenvolvimento de Software (SDLC)
 
 ### Prompt 4: (Dificuldade encontrada)
 Demonstre através de uma imagem teste realizados com a aplicação Scrum.
