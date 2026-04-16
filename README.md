@@ -66,7 +66,7 @@ Demonstre através de uma imagem teste realizados com a aplicação Scrum.
 
 ### Resumos Estruturados do Assunto
 
- **1.Fundamentos e Mudança de Paradigma**:
+ **Fundamentos e Mudança de Paradigma**:
 
 O QA moderno deixou de ser uma atividade reativa (apenas detectar erros) para se tornar uma disciplina de engenharia proativa focada na Garantia da Qualidade do processo
 
@@ -83,7 +83,7 @@ Estratégia de APIs: Testar na camada de API (especialmente arquitetura REST) é
 
 Ferramentas como Postman e Swagger são essenciais para validar contratos de dados e integrar testes em pipelines de CI/CD
 
-## 2. Glossário de Principais Conceitos
+## Glossário de Principais Conceitos
 
 **API (Application Programming Interface):** Interface que permite a comunicação e troca de dados entre sistemas de forma padronizada
 
@@ -101,7 +101,7 @@ Ferramentas como Postman e Swagger são essenciais para validar contratos de dad
 
 **8. Sprint**: Ciclo de trabalho iterativo e de tempo fixo (geralmente 1 mês ou menos) no Scrum
 
-## 3. Conjunto de Prompts Reutilizáveis
+## Conjunto de Prompts Reutilizáveis
 
 ## Para Estratégia: 
 "Com base nos Quadrantes do Teste Ágil, sugira uma estratégia de testes para uma nova funcionalidade de [X] focando no Quadrante 2 e Quadrante 4."
