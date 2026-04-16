@@ -116,7 +116,7 @@ Ferramentas como Postman e Swagger são essenciais para validar contratos de dad
 "Simule uma entrevista técnica para uma vaga de Analista de QA Júnior, focando em conceitos de Scrum e Pirâmide de Testes."
 
 
-## Conclusão
+### Conclusão
 
 Observo que a área de Quality Assurance não é apenas executar testes, há processos envolvidos e melhoria contínua. O aprendizado com este conteúdo reforça ainda mais a importância da qualidade desde o início, apoiando para a entrega de sistemas mais confiáveis e eficientes.
 
